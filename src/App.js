@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       Usestate
-      Another Line
+      <p>Another Line</p>
     </div>
   );
 }
